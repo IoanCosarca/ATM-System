@@ -1,0 +1,34 @@
+205
+~E 1 "../src/Automat Bancar.vhd" 5 Bancomat
+~A 1 "../src/Automat Bancar.vhd" 22 Bhv
+~E 1 "../src/Afisor 7 Segmente.vhd" 4 bcd_7segment
+~A 1 "../src/Afisor 7 Segmente.vhd" 9 Behavioral
+~E 1 "../src/Afisor 7 Segmente.vhd" 5 bcd_7segmente
+~A 1 "../src/Afisor 7 Segmente.vhd" 10 Comportamentala
+~E 1 "../src/Citire.vhd" 5 Citire
+~A 1 "../src/Citire.vhd" 10 Comportamentala
+~E 1 "../src/Citire Suma.vhd" 5 Citire_Suma
+~A 1 "../src/Citire Suma.vhd" 11 Comportamentala
+~E 1 "../src/Comparator 16 biti.vhd" 5 COMP
+~A 1 "../src/Comparator 16 biti.vhd" 10 COMP
+~E 1 "../src/Comparator sume.vhd" 5 COMP2
+~A 1 "../src/Comparator sume.vhd" 10 COMP2
+~E 1 "../../../Convertor.vhd" 5 convertor
+~A 1 "../src/Convertor.vhd" 10 bhv
+~E 1 "../src/Convertor Binar-BCD.vhd" 6 Convertor2
+~A 1 "../src/Convertor Binar-BCD.vhd" 11 Comportamentala
+~E 1 "../src/Bancomat.vhd" 5 DMUX
+~A 1 "../src/DMUX 1_4.vhd" 11 Comportamentala
+~E 1 "../src/Sumator_Scazator.vhd" 3 Full_Adder
+~A 1 "../src/Sumator_Scazator.vhd" 8 bhv
+~E 1 "../src/MUX4la1.vhd" 4 MUX
+~A 1 "../src/MUX4la1.vhd" 9 MUX
+~E 1 "../src/RAM1.vhd" 4 RAM1
+~A 1 "../src/RAM1.vhd" 12 RAM1
+~E 1 "../src/RAM2.vhd" 4 RAM2
+~A 1 "../src/RAM2.vhd" 12 RAM2
+~E 1 "../src/Registru.vhd" 5 Registru
+~E 1 "../src/Sumator_Scazator.vhd" 5 Sumator_Scazator
+~A 1 "../src/Sumator_Scazator.vhd" 11 bhv
+~A 1 "../src/Sumator_Scazator.vhd" 15 comportamentala
+~E 1 "../src/Sumator_Scazator.vhd" 5 SumatorScazator

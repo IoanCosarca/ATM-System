@@ -1,0 +1,15 @@
+i<>.\src\Scazator.vhd
+i<>.\..\..\Proiect_PSN\Automat bancar\src\Comparator 4 biti.vhd
+i<>.\..\..\Proiect_PSN\Automat bancar\src\MUX4la1.vhd
+i<>.\..\..\Proiect_PSN\Automat bancar\src\RAM2.vhd
+i<>.\src\Citire Suma.vhd
+i<>.\src\Afisor 7 Segmente.vhd
+i<>.\..\..\Convertor.vhd
+i<>.\src\Convertor Binar-BCD.vhd
+i<>.\src\RAM1.vhd
+i<>.\src\Comparator 16 biti.vhd
+i<>.\src\MUX4la1.vhd
+i<>.\src\RAM2.vhd
+i<>.\src\Convertor.vhd
+i<>.\src\Automat Bancar.vhd
+i<>.\src\Comparator sume.vhd

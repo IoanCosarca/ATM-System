@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<document type="stimulators" version="1">
+		<set name="ASDB Stimulators" active="1">
+			<stimulator>
+				<signal_path value="/Bancomat/CONTINUA"/>
+				<rawdescription value="KEY:KEY:Override:90/0,1:Z:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Bancomat/ChitantaIN"/>
+				<rawdescription value="KEY:KEY:Override:67/0,1:C:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Bancomat/IDCard(0)"/>
+				<rawdescription value="KEY:KEY:Override:35/0,1:Num 1:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Bancomat/IDCard(1)"/>
+				<rawdescription value="KEY:KEY:Override:40/0,1:Num 2:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Bancomat/PIN0"/>
+				<rawdescription value="KEY:KEY:Override:65/0,1:A:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Bancomat/PIN1"/>
+				<rawdescription value="KEY:KEY:Override:83/0,1:S:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Bancomat/PIN2"/>
+				<rawdescription value="KEY:KEY:Override:68/0,1:D:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Bancomat/PIN3"/>
+				<rawdescription value="KEY:KEY:Override:70/0,1:F:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Bancomat/PINN0"/>
+				<rawdescription value="KEY:KEY:Override:81/0,1:Q:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Bancomat/PINN1"/>
+				<rawdescription value="KEY:KEY:Override:87/0,1:W:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Bancomat/PINN2"/>
+				<rawdescription value="KEY:KEY:Override:69/0,1:E:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Bancomat/PINN3"/>
+				<rawdescription value="KEY:KEY:Override:82/0,1:R:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Bancomat/Sel(0)"/>
+				<rawdescription value="KEY:KEY:Override:188/0,1:,:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Bancomat/Sel(1)"/>
+				<rawdescription value="KEY:KEY:Override:190/0,1:.:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Bancomat/Sum0"/>
+				<rawdescription value="KEY:KEY:Override:86/0,1:V:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Bancomat/Sum1"/>
+				<rawdescription value="KEY:KEY:Override:66/0,1:B:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Bancomat/Sum2"/>
+				<rawdescription value="KEY:KEY:Override:78/0,1:N:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Bancomat/Sum3"/>
+				<rawdescription value="KEY:KEY:Override:77/0,1:M:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Bancomat/ValidPIN"/>
+				<rawdescription value="KEY:KEY:Override:88/0,1:X:1:"/>
+			</stimulator>
+		</set>
+	</document>
+</XML>
